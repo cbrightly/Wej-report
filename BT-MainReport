@@ -1,0 +1,38 @@
+Device Information
+Title    Info
+Identifier:    180A
+Primary:    Yes
+System ID:    0x00D214000013F5D4
+Model Number String:    Model Number
+Serial Number String:    Serial Number
+Firmware Revision String:  Firmware Revision
+Hardware Revision String:  Hardware Revision
+Software Revision String:  Software Revision
+Manufacturer Name String:  Manufacturer Name
+
+IEEE Regulatory Certification	
+PnP ID   <010d0000 001001>
+
+FFF0
+Title    Info
+Identifier:    FFF0
+Primary:    Yes
+FFF1:    0x01
+FFF2:    0x02
+FFF3:    ?
+FFF4:    ?
+FFF5:    0x0102030405
+
+F000FFC0-0451-4000-B000-000000000000
+Title	Info
+Identifier:    F000FFC0-0451-4000-B000-000000000000
+Primary:    Yes
+F000FFC1-0451-4000-B000-000000000000  ?
+F000FFC2-0451-4000-B000-000000000000. ?
+
+03B80E5A-EDE8-4B33-A751-6CE34EC4C700
+Title    Info
+Identifier:   03B80E5A-EDE8-4B33-A751-6CE34EC4C700
+Primary:    Yes
+
+7772E5DB-3868-4112-A1A9-F2669D106BF3   0x
